@@ -1,7 +1,7 @@
 # Where Does Foreign Aid Go?
 By Chris Callahan and Mikey Sison
 
-Website Link: https://chriscallahan99.github.io/DataScience_Final_Project/
+[Website Link](https://chriscallahan99.github.io/DataScience_Final_Project/)
 
 Datasets Used for Project: 
 [Gapminder](https://www.gapminder.org/data/), 
@@ -67,7 +67,7 @@ The link below describes the data and columns gathered from ForeignAssistance.go
 <a href= 'https://s3.amazonaws.com/files.explorer.devtechlab.com/DataDictionary_ForeignAssistancegov.pdf'> https://s3.amazonaws.com/files.explorer.devtechlab.com/DataDictionary_ForeignAssistancegov.pdf </a>
 
 #### Example Query
-![DataSceience_Final_Project/FAgovEthiopiaQuery.png](attachment:FAgovEthiopiaQuery.png)
+![FAgovEthiopiaQuery.png](docs\assets\FAgovEthiopiaQuery.png)
 The image above is an example query of the foreign aid given to Ethiopia over from 2018 to 2022
 
 
