@@ -1,11 +1,12 @@
 # Where Does Foreign Aid Go?
 By Chris Callahan and Mikey Sison
 
+Website Link: https://chriscallahan99.github.io/DataScience_Final_Project/
+
 Datasets Used for Project: 
 [Gapminder](https://www.gapminder.org/data/), 
 [US Gov Foreign Assistance](https://foreignassistance.gov/
 )
-[Link to Website](https://chriscallahan99.github.io/DataScience_Final_Project/)
 
 
 ```python
@@ -66,7 +67,7 @@ The link below describes the data and columns gathered from ForeignAssistance.go
 <a href= 'https://s3.amazonaws.com/files.explorer.devtechlab.com/DataDictionary_ForeignAssistancegov.pdf'> https://s3.amazonaws.com/files.explorer.devtechlab.com/DataDictionary_ForeignAssistancegov.pdf </a>
 
 #### Example Query
-![FAgovEthiopiaQuery.png](attachment:FAgovEthiopiaQuery.png)
+![DataSceience_Final_Project/FAgovEthiopiaQuery.png](attachment:FAgovEthiopiaQuery.png)
 The image above is an example query of the foreign aid given to Ethiopia over from 2018 to 2022
 
 
@@ -593,13 +594,13 @@ sns.lineplot(El_Salvador_foreign_aid_data, x= 'Fiscal Year', y= 'Constant Dollar
 
 
     
-![png](output_23_1.png)
+![png](output_24_1.png)
     
 
 
 
     
-![png](output_23_2.png)
+![png](output_24_2.png)
     
 
 
@@ -646,7 +647,7 @@ sns.barplot(data= country_by_funding_agency[6] , x= 'Funding Agency Acronym', y=
 
 
     
-![png](output_26_1.png)
+![png](output_27_1.png)
     
 
 
