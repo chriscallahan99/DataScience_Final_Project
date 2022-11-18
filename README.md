@@ -4,9 +4,9 @@ By Chris Callahan and Mikey Sison
 [Website Link](https://chriscallahan99.github.io/DataScience_Final_Project/)
 
 Datasets Used for Project: 
-[Gapminder](https://www.gapminder.org/data/), 
 [US Gov Foreign Assistance](https://foreignassistance.gov/
-)
+), [WHO GW13 Dataset](https://www.who.int/data/inequality-monitor/data#PageContent_C160_Col00),
+[Cereal Dataset](https://ourworldindata.org/agricultural-production#cereals)
 
 
 ```python
